@@ -9,6 +9,7 @@ __pycache__/
 
 # Virtual environment
 .venv/
+twin/
 
 # Local databases
 *.db
